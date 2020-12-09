@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "bank"
+version = "0.1.0"
+description = "A Blockchain based Bank simulator with extra features"
+authors = ["WAIO Tech <waiotech.com@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+replit = "^2.0.0"
+redis = "^3.5.3"
+clear-screen = "^0.1.14"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

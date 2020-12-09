@@ -1,0 +1,1 @@
+Okay cool, let's try make a bank simulator console in python with a redis database running async.!
